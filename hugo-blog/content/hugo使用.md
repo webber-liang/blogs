@@ -2,6 +2,9 @@
 title = 'hugo使用'
 date = 2024-02-16T19:21:07+08:00
 draft = false
+tags = hugo
+series= hugo
+categories = hugo
 +++
 #### 克隆博客源仓库
 ```bash
